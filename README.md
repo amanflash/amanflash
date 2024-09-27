@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋
 
-https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&multiline=true&width=560&lines=Hello+this+is+Aman Kumar%2C+Welcome+to+my+Github+page.](https://git.io/typing-svg)
+https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&multiline=true&width=560&lines=Hello+this+is+Aman+Kumar%2C+Welcome+to+my+Github+page.](https://git.io/typing-svg)
 </h2>
 
 <h4 align="center">A passionate Full Stack Web Developer from India</h4>
