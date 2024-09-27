@@ -9,9 +9,9 @@ https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&mul
 
 - 🌱 I’m currently learning *Next.js*
 
-- 💬 Ask me about *MERN Stack*
+- 💬 Ask me about *LAMP WAMP Stack*
 
-- 📫 How to reach me *abhaysharma7905@gmail.com*
+- 📫 How to reach me *amanflash007@gmail.com*
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1_9eO_Du3-UEY97qTeA4hwN8EU_ULrs0e/view?usp=share_link
 
