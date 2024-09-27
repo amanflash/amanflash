@@ -1,11 +1,11 @@
 <h2 align="center">Hi there 👋
 
-https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&multiline=true&width=560&lines=Hello+this+is+Aman%2C+Welcome+to+my+Github+page.](https://git.io/typing-svg)
+https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&multiline=true&width=560&lines=Hello+this+is+Abhay%2C+Welcome+to+my+Github+page.](https://git.io/typing-svg)
 </h2>
 
 <h4 align="center">A passionate Full Stack Web Developer from India</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhay31&label=Profile%20views&color=0e75b6&style=flat" alt="Aman kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhay31&label=Profile%20views&color=0e75b6&style=flat" alt="Abhay31" /> </p>
 
 - 🌱 I’m currently learning *Next.js*
 
